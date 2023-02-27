@@ -38,9 +38,11 @@ Participants are encouraged to add timestamps to their predictions for anchoring
 
 
 Two Example predictions (by two imaginary People Felix and John) might look like this:
+(the numbers (2,5,10, etc) mean Years from now  (Start of 2023) into the future)
 
 ```
 John:
+  # the numbers (2,5,10, etc) mean Years from now  (Start of 2023) into the future
   5:
     - Self-driving cars
 
@@ -80,6 +82,7 @@ John:
 
 ```
 Felix:
+   # the numbers (2,5,10, etc) mean Years from now  (Start of 2023) into the future
     2:
       - Self-driving cars
 
