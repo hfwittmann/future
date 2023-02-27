@@ -3,6 +3,9 @@
 # Documentation for this file format can be found in "The Data Catalog"
 # Link: https://kedro.readthedocs.io/en/stable/data/data_catalog.html
 
+params_people:
+  type: kedro.io.MemoryDataSet
+
 results:
   type: json.JSONDataSet
   filepath: data/08_reporting/results.json

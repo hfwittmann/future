@@ -7,6 +7,14 @@ import numpy as np
 from pathlib import Path
 
 
+def getPeople(people, parameters):
+
+    for person in people:
+        parameters["people"][person] = parameters[person]
+
+    return parameters["people"]
+
+
 def myevaluate(predictions, people, realised_with_timestamps, weights, out_path):
     out = {}
     for person_key, person_with_timestamps in people.items():

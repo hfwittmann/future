@@ -2,4 +2,33 @@
 # using Kedro 0.18.4.
 #
 # Documentation for this file format can be found in "Parameters"
-# Link: https://kedro.readthedocs.io/en/0.18.4/kedro_project_setup/configuration.html#parameters
+# Link: https://kedro.readthedocs.io/en/0.18.4/kedro_project_setup/configuration.html#parametersT
+
+#  These are the future events, the sequence of which we want to predict
+predictions:
+  - 1 person on Mars (base, as in Antarctica)
+  - 10 hours from Frankfurt to Sydney
+  - Asteroid mining
+  - Carbon capture
+  - Cleaning robots (on human level with tidying up)
+  - Diseases, Cancer, Alzheimer's, Parkinson's (1 of them)
+  - Diseases, Cancer, Alzheimer's, Parkinson's (2 of them)
+  - End of capitalism in Europe
+  - End of the oil age
+  - Energy weapons on warships
+  - First man turns 150
+  - Fusion
+  - Humanoid robots in everyday life
+  - Majority of world population is atheist
+  - Mini atomic power plants
+  - Nano robots (self-replicating) for medicine
+  - Net zero CO2
+  - Permanent presence of at least 5000 people in space
+  - Quantum computers
+  - Revival of extinct species
+  - Self-driving cars
+  - Universal translation for some animals (orcas, elephants, monkeys) (1 of them)
+  - Universities will be abolished
+  - Work will no longer be necessary for the majority of the working-age (25 to 65) population
+  - World government
+  - World population reaches peak
